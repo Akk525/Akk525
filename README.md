@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AI powered tutor for students.<br>👯 I’m looking to collaborate on any project. Feel free to reach out!<br>🤝 I’m looking for help with open source projects.<br>🌱 I’m currently learning AI and solidity.<br>💬 Ask me about anything related to Full Stack development.<br>⚡ Fun fact: I don't know how to use VIM lol!
+🔭 I’m currently working on an AI powered tutor for students.<br>👯 I’m looking to collaborate on any project. Feel free to reach out!<br>🤝 I’m looking for help with open source projects.<br>🌱 I’m currently learning AI and solidity.<br>💬 Ask me about anything related to Full Stack development.<br>⚡ Fun fact: I love to hit legs in the gym!
 
 
 ## 🌐 Socials:
